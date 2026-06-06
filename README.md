@@ -1,5 +1,5 @@
 # Amelia-Deol
-This is my first git repository.
+This is my first experience on github.
 <br>
 It will be good experience.
 <br>
